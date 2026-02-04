@@ -1,4 +1,4 @@
-import { OrbitingCircles } from "./Orbitingcircles";
+import { OrbitingCircles } from "./OrbitingCircles";
 
 export function Frameworks() {
   const skills = [
